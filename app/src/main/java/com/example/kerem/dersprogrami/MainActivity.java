@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     Button cuma;
 
 
-    
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
         pzrts.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                metin.setText(pz[0]);
+                metin.setText(pz[0]+"\n"+pz[1]+"\n"+pz[2]+"\n"+pz[3]+"\n"+pz[4]+"\n"+pz[5]+"\n"+pz[6]+"\n"+pz[7]);
             }
         });
 
