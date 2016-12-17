@@ -40,34 +40,35 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 metin.setText(pz[0]+"\n"+pz[1]+"\n"+pz[2]+"\n"+pz[3]+"\n"+pz[4]+"\n"+pz[5]+"\n"+pz[6]+"\n"+pz[7]);
+
             }
         });
 
         sali.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                metin.setText(sa[0]);
+                metin.setText(sa[0]+"\n"+sa[1]+"\n"+sa[2]+"\n"+sa[3]+"\n"+sa[4]+"\n"+sa[5]+"\n"+sa[6]+"\n"+sa[7]);
             }
         });
 
         carsamba.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                metin.setText(ca[0]);
+                metin.setText(ca[0]+"\n"+ca[1]+"\n"+ca[2]+"\n"+ca[3]+"\n"+ca[4]+"\n"+ca[5]+"\n"+ca[6]+"\n"+ca[7]);
             }
         });
 
         persembe.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                metin.setText(pe[0]);
+                metin.setText(pe[0]+"\n"+pe[1]+"\n"+pe[2]+"\n"+pe[3]+"\n"+pe[4]+"\n"+pe[5]+"\n"+pe[6]+"\n"+pe[7]);
             }
         });
 
         cuma.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                metin.setText(cu[5]);
+                metin.setText(cu[0]+"\n"+cu[1]+"\n"+cu[2]+"\n"+cu[3]+"\n"+cu[4]+"\n"+cu[5]+"\n"+cu[6]+"\n"+cu[7]);
             }
         });
 
