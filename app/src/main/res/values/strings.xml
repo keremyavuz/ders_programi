@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Ders Programi</string>
+
+
+<string-array name="pazartesi">
+<item>Fizik</item>
+<item>Fizik</item>
+<item>Cografya</item>
+<item>Cografya</item>
+<item>İngilizce</item>
+<item>ingilizce</item>
+<item>Bilgisayar</item>
+<item>Bilgisayar</item>
+</string-array>
+
+
+<string-array name="sali">
+
+<item>Matematik</item>
+<item>Matematik</item>
+<item>TDE</item>
+<item>TDE</item>
+<item>Beden</item>
+<item>Beden</item>
+<item>Astronomi</item>
+<item>Astronomi</item>
+</string-array>
+
+<string-array name="carsamba">
+
+<item>Biyoloji</item>
+<item>Kimya</item>
+<item>Kimya</item>
+<item>Matematik</item>
+<item>Matematik</item>
+<item>Rehberlik</item>
+<item>İngilizce</item>
+<item>İngilizce</item>
+</string-array>
+
+<string-array name="persembe">
+
+<item>Matematik</item>
+<item>Matematik</item>
+<item>TDE</item>
+<item>Sağlık</item>
+<item>Ingilizce</item>
+<item>Ingilizce</item>
+<item>Tarih</item>
+<item>Tarih</item>
+</string-array>
+
+<string-array name="cuma">
+
+<item>TDE</item>
+<item>TDE</item>
+<item>Müzik</item>
+<item>Almanca</item>
+<item>Almanca</item>
+<item>Din</item>
+<item>Biyoloji</item>
+<item>Biyoloji</item>
+</string-array>
+
+</resources>
